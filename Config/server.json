@@ -1,5 +1,5 @@
 {
-  "GameHost": "xtlgame-fc11da5059d3ea6e.elb.eu-west-1.amazonaws.com",
+  "GameHost": "xtlgame-5da9dd163b9c104f.elb.eu-west-1.amazonaws.com",
   "GamePort": 15152,
   "WebPort": 80,
   "ProtocolVersion": 407,
